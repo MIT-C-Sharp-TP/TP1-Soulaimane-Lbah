@@ -208,7 +208,6 @@ In Unity, `Console.WriteLine` becomes `Debug.Log`; the rest of the structure sta
 ## Author
 
 **Soulaimane Lbah**
-Master's in Immersive Technologies, Digital Engineering for Health Professions
-ENSAM Casablanca, Université Hassan II de Casablanca
+Master's in Immersive Technologies, Université Hassan II de Casablanca
 
 Course by Abdelhakim EL Ghayoubi.
